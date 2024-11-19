@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Jorge an **Industrial Design Engineer** from **València** currently living in **Barcelona**
+# 👋 Hi, I’m Jorge Muñoz an Industrial Design Engineer 
+- 🌍 From **València** currently living in **Barcelona**
 - 👀 I’m interested in **COmputational DEsign, AI, Digital Fabrication and Open Hardware Projects**
 - 🤓 Trying to learn *how to make almost anything*
 - 👥 I’m looking to collaborate on any interesting project that aligns with my interests. (Don't hesitate to ask me!)
