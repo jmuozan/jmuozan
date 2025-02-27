@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmuozan&langs_count=3&hide_title=true&hide_border=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmuozan&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmuozan&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> 
 <!---
 - 😀 Pronouns: *He/Him*
 - ⚡ Fun fact: ...
