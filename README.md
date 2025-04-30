@@ -6,7 +6,7 @@
 - ⚙️ Currently working on: **[crft](https://github.com/jmuozan/crft)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmuozan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=4493F8&icon_color=4493F8&ring_color=4493F8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmuozan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=777&icon_color=4493F8&ring_color=4493F8" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmuozan&layout=compact&theme=buefy&hide_border=true&hide=html&hide_title=true&bg_color=00000000&text_color=4493F8" />
 </a> 
