@@ -12,7 +12,6 @@
 </a> 
 <!---
 Idees:
-
 - [ ] Ruta esmorzars
 - [ ] GPX from drawings?????
 --->
