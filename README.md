@@ -2,7 +2,7 @@
 - 🌍 From **València** 🧨🔥 but currently based in **Barcelona**
 - 🤗 Interested in **COmputational DEsign (grasshopper 🦗), AI, Digital Fabrication, Machine Learning and Open Source Hardware Projects**
 - 🤓 Trying to learn *how to make almost anything*
-- 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch
+- 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch. Just for fun you can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
 - ⚙️ Currently working on: **[crft](https://github.com/jmuozan/crft)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
