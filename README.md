@@ -4,7 +4,7 @@
 - 🤓 Trying to learn *how to make almost anything*
 - 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
 - ⚙️ Currently working on: **[crft](https://github.com/jmuozan/crft)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)**
-- 📖 Just for fun you can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
+- 📖 You can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmuozan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=777&icon_color=4493F8&ring_color=4493F8" />
