@@ -3,7 +3,7 @@
 - 🤗 Interested in COmputational DEsign (grasshopper 🦗), AI, Digital Fabrication, Human-Machine Interactions (HMI) and Open Source Hardware Projects
 - 🤓 Trying to learn *how to make almost anything*
 - 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
-- 📹 **[Stuff on Youtube](https://www.youtube.com/@jmuozan)**
+- 📹 **[I upload the stuff I do to Youtube](https://www.youtube.com/@jmuozan)**
 - ⚙️ Currently working on: **[ArsPostFaber](https://github.com/jmuozan/ArsPostFaber)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)**
 - 📖 You can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
 <a href="https://github.com/anuraghazra/github-readme-stats">
