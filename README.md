@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jorge Muñoz, Industrial Design Engineer, Researcher and Maker
 - 🌍 From València 🧨🔥 but currently based in Barcelona
 - 🤗 Interested in COmputational DEsign (grasshopper 🦗), AI, Digital Fabrication, Human-Machine Interactions (HMI) and Open Source Hardware Projects
-- 🤓 Trying to learn how to make almost anything
+- 🤓 Trying to learn *how to make almost anything*
 - 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
 - 📹 **[Stuff on Youtube](https://www.youtube.com/@jmuozan)**
 - ⚙️ Currently working on: **[ArsPostFaber](https://github.com/jmuozan/ArsPostFaber)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)**
