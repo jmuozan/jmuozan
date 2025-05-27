@@ -13,6 +13,6 @@
 </a>
 <!---
 Idees:
-- [ ] Ruta esmorzars
+- [x] Ruta esmorzars
 - [ ] GPX from drawings?????
 --->
