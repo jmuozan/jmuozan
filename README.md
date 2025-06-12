@@ -2,7 +2,7 @@
 - 🌍 From **València** 🧨🔥 but currently based in **Barcelona**
 - 📚 Industrial Design Engineering at **[Universitat Politècnica de València (UPV)](https://www.upv.es/)**, Master in Design for Emergent Futures at **[Institute for Advance Architecture of Catalonia (IAAC)](https://iaac.net/)** / **[Elisava](https://www.elisava.net/en/)** / **[Fab Lab Barcelona](https://fablabbcn.org/)**
 - 🤗 Interested in **COmputational DEsign** (grasshopper 🦗), **AI**, **Digital Fabrication**, **Human-Machine Interactions** (HMI) and **Open Source Hardware Projects** (OSH)
-- 🤓 Trying to learn *how to make almost anything*
+- 🤓 Trying to learn ***how to make almost anything***
 - 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** (working on a newer ***[version](https://jmuozan.github.io/docs)***) to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
 - 📹 **[I upload the stuff I do to Youtube](https://www.youtube.com/@jmuozan)**
 - ⚙️ Currently working on: **[ArsPostFaber](https://github.com/jmuozan/ArsPostFaber)**, **[ArsPostFaber-docs](https://jmuozan.github.io/ArsPostFaber-docs/)**, **[jmuozan-docs](https://jmuozan.github.io/docs/)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)** 
