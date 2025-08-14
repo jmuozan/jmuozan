@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jorge Muñoz, Industrial Design Engineer, Researcher and Maker
+# 👋 Hi, I’m Jorge Muñoz, Industrial Design Engineer, Teacher, Researcher and Maker
 - 🌍 From **València** 🧨🔥 but currently based in **Barcelona**
 - 📚 Industrial Design Engineering at **[Universitat Politècnica de València (UPV)](https://www.upv.es/)**, Master in Design for Emergent Futures at **[Institute for Advance Architecture of Catalonia (IAAC)](https://iaac.net/)** / **[Elisava](https://www.elisava.net/en/)** / **[Fab Lab Barcelona (FAB LAB BCN)](https://fablabbcn.org/)**, Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas at **[UNIR La Universidad en Internet](https://www.unir.net)**
 - 🤗 Interested in **COmputational DEsign** (grasshopper 🦗), **AI**, **Digital Fabrication**, **Human-Machine Interactions** (HMI), **Educational Tools** and **Open Source Hardware Projects** (OSH)
