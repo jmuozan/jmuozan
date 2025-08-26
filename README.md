@@ -12,6 +12,22 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmuozan&layout=compact&theme=buefy&hide_border=true&hide=html&hide_title=true&bg_color=00000000&text_color=777" />
 </a>
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 <!---
 - GPX from drawings?????
 - Money expenses tool
