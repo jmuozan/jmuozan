@@ -16,6 +16,7 @@
 - GPX from drawings?????
 - Money expenses tool
 - Game on a pdf
+- Fashion patterns gh
 
 
 
