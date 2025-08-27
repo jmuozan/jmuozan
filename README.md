@@ -15,7 +15,7 @@
 <!---
 - GPX from drawings?????
 - Money expenses tool
-- Game on a pdf
+- video ascii + subtitles on a pdf
 - Fashion patterns gh
 
 
