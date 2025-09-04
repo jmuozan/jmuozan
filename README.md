@@ -18,6 +18,7 @@
 - Money expenses tool
 - video ascii + subtitles on a pdf
 - Fashion patterns gh
+- Blender Machine Learning detect object, associate eith 3d database an place digital twin in 3d space
 
 
 
