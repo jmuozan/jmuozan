@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jorge Muñoz, Industrial Design Engineer, Teacher, Researcher and Maker
 - 🌍 From **València** 🧨🔥 but currently based in **Barcelona**
 - 📚 Industrial Design Engineering at **[Universitat Politècnica de València (UPV)](https://www.upv.es/)**, Master in Design for Emergent Futures at **[Institute for Advance Architecture of Catalonia (IAAC)](https://iaac.net/)** / **[Elisava](https://www.elisava.net/en/)** / **[Fab Lab Barcelona (FAB LAB BCN)](https://fablabbcn.org/)**, Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas at **[UNIR La Universidad en Internet](https://www.unir.net)**
-- 👨‍🏫 Working as a Mechanichal Production teacher at **[Institut Pompeu Fabra](https://agora.xtec.cat/iespompeufabra-bdn/)**
+- 👨‍🏫 Working as Mechanichal Production teacher at **[Institut Pompeu Fabra](https://agora.xtec.cat/iespompeufabra-bdn/)**
 - 🤗 Interested in **COmputational DEsign** (grasshopper 🦗), **AI**, **Digital Fabrication**, **Human-Machine Interactions** (HMI), **Educational Tools** and **Open Source Hardware Projects** (OSH)
 - 🤓 Trying to learn ***how to make almost anything***
 - 🔗 You can check **[my website](https://jmuozan.github.io/jorgemunyozz.github.io/)** (working on a newer ***[version](https://jmuozan.github.io/docs)***) to see my works and projects, my **[cv](https://jmuozan.github.io/docs/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
