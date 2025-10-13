@@ -20,4 +20,17 @@
 - Fashion patterns gh
 - Blender Machine Learning detect object, associate eith 3d database an place digital twin in 3d space
 
+# List of Books that shape my thinking:
+- AAD Algorithms-Aided Design: Parametric Strategies using Grasshopper
+- Calling Bullshit: The Art of Skepticism in a Data-Driven World
+- Los diez libros de arquitectura
+- The Craftsman
+- Arte y artesanía
+- Designing Reality: How to Survive and Thrive in the Third Digital Revolution
+- When Things Start to Think
+- FAB: The Coming Revolution on Your Desktop–from Personal Computers to Personal Fabrication
+- Diccionari per a ociosos
+- Construir i habitar: Ètica per a la ciutat
+- The Eye of the Master: A Social History of Artificial Intelligence
+
 --->
