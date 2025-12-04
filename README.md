@@ -4,7 +4,7 @@
 - 👨‍🏫 Currently working as Mechanichal Production teacher at **[Institut Pompeu Fabra](https://agora.xtec.cat/iespompeufabra-bdn/)**
 - 🤗 Interested in **COmputational DEsign** (grasshopper 🦗), **AI**, **Digital Fabrication**, **Human-Machine Interactions** (HMI), **Educational Tools** and **Open Source Hardware Projects** (OSH)
 - 🤓 Trying to learn ***how to make almost anything***
-- 🔗 You can check **[my website](https://jmuozan.github.io/docs)** to see my works and projects, my **[cv]()** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
+- 🔗 You can check **[my website](https://jmuozan.github.io/docs)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/about/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
 - 📹 **[I upload the stuff I do to Youtube](https://www.youtube.com/@jmuozan)**
 - ⚙️ Currently working on: **[FMB01_1665_IPompeuFabra](https://jmuozan.github.io/FMB01_1665_IPompeuFabra/)**, **[jmuozan-docs](https://jmuozan.github.io/docs/)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)** 
 - 📖 You can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
