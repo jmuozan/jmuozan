@@ -9,13 +9,12 @@
 - ⚙️ Currently working on: **[FMB01_1665_IPompeuFabra](https://jmuozan.github.io/FMB01_1665_IPompeuFabra/)**, **[jmuozan-docs](https://jmuozan.github.io/docs/)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)** 
 - 📖 You can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
 
-[![Jmuozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmuozan)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmuozan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=777&icon_color=4493F8&ring_color=4493F8\&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmuozan&layout=compact&theme=buefy&hide_border=true&hide=html,css&hide_title=true&bg_color=00000000&text_color=777" />
-</a>
+</a>-->
 <!---
 - GPX from drawings?????
 - Money expenses tool
