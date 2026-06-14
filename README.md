@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Jorge Muñoz, Industrial Design Engineer, Teacher, Researcher and Maker
-- 🌍 From **València** 🧨🔥 but currently based in **Barcelona**
+# 👋 Hi, I’m Jorge, Engineer, Teacher, Researcher and Maker
+- 🌍 From **València** but currently based in **Barcelona**
 - 📚 Industrial Design Engineering at **[Universitat Politècnica de València (UPV)](https://www.upv.es/)**
 - 👨‍🏫 Currently working as Mechanichal Production teacher at **[Institut Pompeu Fabra](https://agora.xtec.cat/iespompeufabra-bdn/)**
 - 🤗 Interested in **COmputational DEsign** (grasshopper 🦗), **AI**, **Digital Fabrication**, **Human-Machine Interactions** (HMI), **Educational Tools** and **Open Source Hardware Projects** (OSH)
 - 🤓 Trying to learn ***how to make almost anything***
 - 🔗 You can check **[my website](https://jmuozan.github.io/docs)** to see my works and projects, my **[cv](https://jmuozan.github.io/docs/about/CV.pdf)** or **[my LinkedIn](https://www.linkedin.com/in/jorgemunozzanon/)** to get in touch.
-- 📹 **[I upload the stuff I do to Youtube](https://www.youtube.com/@jmuozan)**
+- 📹 **[I upload some of the stuff I do to Youtube](https://www.youtube.com/@jmuozan)**
 - ⚙️ Currently working on: **[jmuozan-docs](https://jmuozan.github.io/docs/)** & **[asmorzaors](https://github.com/jmuozan/asmorzaors)** 
 - 📖 You can also **[check out my profile on Goodreads!](https://www.goodreads.com/user/show/172540756)**
 
